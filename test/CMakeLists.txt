@@ -1,0 +1,2 @@
+add_subdirectory(hsm_test)
+add_subdirectory(hsm_example)
